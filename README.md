@@ -1,7 +1,7 @@
 
 # Music Mat
 
-This is a simple project that allows playing samples by walking on a DDR type dance mat, or any USB joypad.
+This is a simple project that allows playing sounds by walking on a DDR type dance mat, or any USB joypad.
 The goal was to make a musical toy for kids, each "zone" of the mat plays a different sound.
 The project is documented on my [hackaday page](https://hackaday.io/project/171913-music-mat)
 
